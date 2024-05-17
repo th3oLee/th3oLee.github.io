@@ -1,0 +1,55 @@
+portfolioitems:
+  # portfolio category
+  - title: Projets de développement
+    # items within a category
+    portfolioitem:
+
+      - name: Tetriste
+        image: 'https://img.itch.zone/aW1hZ2UvMTA5NzQ0Ni82MzYxNzM4LnBuZw==/original/EsOdPH.png'
+        link: https://theophile-dev.itch.io/tetriste
+        description: 'Jouable à 2 joueurs, protégez-vous des attaques de votre adversaire en empilant des blocs, mais faites attention à la physique pour construire une structure bien stable. Réalisé lors de la MashUp GameJam 2. Mention honorable par le jury'
+        tags:
+          - UnrealEngine
+          - Game
+        status: 'Finished'
+        start: '2021'
+
+      
+      - name: IVSmonitoring & IVSinstall
+        image: '/images/capteurIntelligent.png'
+        description: 'Deux applications pour l installation et le suivie des boitiers intelligents IVStore.'
+        tags:
+          - Back
+          - C++
+        status: 'Finished'
+        start: '2021'
+
+
+      - name: Controle de caméra
+        image: '/images/cameraLJT.jpg'
+        description: 'Aide au developpement d une solution pour LJT Production'
+        tags:
+          - Electronique
+          - C
+        status: 'Finished'
+        start: '2022'
+
+
+      - name: Site Nord Orthopédie
+        image: '/images/nordOrtho.jpg'
+        description: 'Site web pour la société Nord Orthopédie'
+        tags:
+          - Web
+        status: 'Finished'
+        start: '2017'
+
+      - name: DroidMote
+        image: '/images/remotdroid.png'
+        link: https://github.com/th3olee/DroidMote/
+        description: 'Une Wiimote pour vos projets sous Unity avec votre téléphone !'
+        tags:
+          - Unity
+          - Mobile
+        status: 'Finished'
+        start: '2021'
+        

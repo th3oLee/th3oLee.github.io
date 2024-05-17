@@ -1,0 +1,55 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'anatole'
+
+enableRobotsTXT = true
+
+
+[params]
+title = "Salut, je suis Theo Lejeune"
+author = "Theo Lejeune"
+description = "Ingénieur DevSecOps, n'hésitez pas à me contacter"
+profilePicture = "https://avatars.githubusercontent.com/u/18557909?v=4"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/th%C3%A9o-lejeune-31b6a1176/"
+
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/th3olee/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:theolejeune@protonmail.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "📝 Blog" 
+  identifier = "📝 Blog"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "💼 Portfolio"
+  weight = 200
+  identifier = "💼 Portfolio"
+  url = "/portfolio/"
+
+  [[menu.main]]
+  name = "👾 A propos"
+  weight = 300
+  identifier = "👾 A propos"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "📫 Contacts"
+  weight = 400
+  identifier = "📫 Contacts"
+  url = "/Contacts/"
