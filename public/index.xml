@@ -19,17 +19,6 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>Contacts</title>
       <link>http://localhost:1313/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

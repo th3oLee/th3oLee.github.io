@@ -12,7 +12,7 @@ author = "Theo Lejeune"
 description = "Ingénieur DevSecOps, n'hésitez pas à me contacter"
 profilePicture = "/profile.jpeg"
 mainSections = []
-postSectionName = "blog"
+
 
 
 [[params.socialIcons]]
@@ -44,7 +44,7 @@ url = "mailto:theolejeune@protonmail.com"
   name = "📝 Blog" 
   identifier = "📝 Blog"
   weight = 200
-  url = "/blog"
+  url = "/posts"
 
   [[menu.main]]
   name = "💼 Portfolio"
