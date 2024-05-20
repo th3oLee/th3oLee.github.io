@@ -1,3 +1,5 @@
 /*
-  Content-Security-Policy:  base-uri 'self'; connect-src 'self'  https://api-gateway.umami.dev/; default-src 'self'; frame-ancestors 'none'; font-src 'self'; img-src 'self'; object-src 'none'; script-src 'self'  https://api-gateway.umami.dev/; style-src 'self';
-  
+  Content-Security-Policy:  base-uri 'self' https://api-gateway.umami.dev/; connect-src 'self'  https://api-gateway.umami.dev/; default-src 'self'; frame-ancestors 'none'; font-src 'self'; img-src 'self'; object-src 'none'; script-src 'self'  https://api-gateway.umami.dev/; style-src 'self';
+  Access-Control-Allow-Origin : https://theolejeune.xyz/ https://api-gateway.umami.dev/ 
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
