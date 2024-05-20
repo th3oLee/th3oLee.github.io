@@ -19,14 +19,13 @@
     </item>
     
     <item>
-      <title>A Propos</title>
-      <link>http://localhost:1313/about/</link>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       
-        <description>Bonjour, je suis Théo Lejeune, Ingénieur DevSecOps. Bienvenue sur mon blog ! Ici, je partage mes découvertes et apprentissages dans mon domaine. N&amp;rsquo;hésitez pas à me poser des questions par mail ou autre. Je suis également disponible pour travailler avec vous sur vos projets. Bonne lecture !
-📘 Formation Diplôme: Ingénieur informatique Établissement: IMT Nord Europe Période: 2017 - 2022 🏢 Expérience Professionnelle Thales - 2022 - Aujourd&amp;rsquo;hui Ingénieur Cybersécurite - 2024 - Aujourd&amp;rsquo;hui</description>
+        <description></description>
       
     </item>
     
@@ -38,6 +37,19 @@
       <guid>http://localhost:1313/contacts/</guid>
       
         <description>Je suis joignable en message privé sur LinkedIn ou par mail pour toutes informations concernant mes articles de blog, ainsi que pour des opportunités de travail en freelance. N&amp;rsquo;hésitez pas à me contacter, je serai ravi de répondre à vos questions et de discuter avec vous !</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>📘 Formation Diplôme: Ingénieur informatique Établissement: IMT Nord Europe Période: 2017 - 2022 🏢 Expérience Professionnelle Thales - 2022 - Aujourd&amp;rsquo;hui Ingénieur Cybersécurite - 2024 - Aujourd&amp;rsquo;hui
+Ingénieur Développement C++ - 2022 - 2024
+Gestion d&amp;rsquo;un lot de travail C++ et JEE Développement de nouvelles features Résolution de bugs OpCodes - 2022 Ingénieur Cybersécurité Audit de code Web3 et Web2 (Rust) Développement Rust sur Solana IVS - 2021 Ingénieur DevOps Développement d&amp;rsquo;une solution de monitoring Sitra - 2020 Business Intelligence Développement d&amp;rsquo;outil d&amp;rsquo;analyse et d&amp;rsquo;aide à la prise de décision à destination des managers sous PowerBI.</description>
       
     </item>
     

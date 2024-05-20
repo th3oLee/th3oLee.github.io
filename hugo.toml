@@ -7,10 +7,13 @@ enableRobotsTXT = true
 
 
 [params]
-title = "Salut, je suis Theo Lejeune"
+title = "Bonjour, je suis Theo Lejeune"
 author = "Theo Lejeune"
 description = "Ingénieur DevSecOps, n'hésitez pas à me contacter"
-profilePicture = "https://avatars.githubusercontent.com/u/18557909?v=4"
+profilePicture = "/profile.jpeg"
+mainSections = []
+postSectionName = "blog"
+
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -32,25 +35,31 @@ url = "mailto:theolejeune@protonmail.com"
 [menu]
 
   [[menu.main]]
-  name = "📝 Blog" 
-  identifier = "📝 Blog"
+  name = "🏠 Accueil" 
+  identifier = "🏠 Accueil"
   weight = 100
   url = "/"
 
   [[menu.main]]
-  name = "💼 Portfolio"
+  name = "📝 Blog" 
+  identifier = "📝 Blog"
   weight = 200
+  url = "/blog"
+
+  [[menu.main]]
+  name = "💼 Portfolio"
+  weight = 300
   identifier = "💼 Portfolio"
   url = "/portfolio/"
 
   [[menu.main]]
-  name = "👾 A propos"
-  weight = 300
-  identifier = "👾 A propos"
+  name = "👾 CV"
+  weight = 400
+  identifier = "👾 CV"
   url = "/about/"
 
   [[menu.main]]
   name = "📫 Contacts"
-  weight = 400
+  weight = 500
   identifier = "📫 Contacts"
   url = "/Contacts/"

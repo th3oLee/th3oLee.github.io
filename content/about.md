@@ -1,9 +1,7 @@
 +++
 type = 'page'
-title = 'A Propos'
+title = 'CV'
 +++
-
-Bonjour, je suis Théo Lejeune, **Ingénieur DevSecOps**. Bienvenue sur mon blog ! Ici, je partage mes découvertes et apprentissages dans mon domaine. N'hésitez pas à me poser des questions par *mail* ou autre. Je suis également disponible pour travailler avec vous sur vos projets. Bonne lecture !
 
 
 ## 📘 Formation
