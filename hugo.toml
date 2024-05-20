@@ -29,11 +29,6 @@ title = "e-mail"
 url = "mailto:theolejeune@protonmail.com"
 
 
-[params.umami]
-serverURL = "analytics.umami.is"
-id = "46e1e72e-ac7a-4ac1-bbf4-9b1f40c8d6eb"
-trackerScriptName = "script.js"
-
 [menu]
 
   [[menu.main]]
