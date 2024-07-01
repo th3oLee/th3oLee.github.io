@@ -3,6 +3,7 @@ title = 'Rust Cheatsheet'
 date = 2024-05-16T14:06:20+02:00
 draft = false
 summary = 'My personnal cheastsheet while learning Rust'
+thumbnail = "images/ferris.jpg"
 +++
 
 

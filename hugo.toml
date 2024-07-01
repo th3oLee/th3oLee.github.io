@@ -12,7 +12,8 @@ author = "Theo Lejeune"
 description = "Ingénieur DevSecOps, n'hésitez pas à me contacter"
 profilePicture = "/profile.jpeg"
 mainSections = []
-
+customCss = ["css/custom.css"]
+disableThemeSwitcher = true
 
 
 [[params.socialIcons]]
