@@ -4,19 +4,16 @@
     <title>Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content on Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 14:06:20 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 May 2024 14:06:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rust Cheatsheet</title>
       <link>http://localhost:1313/posts/rust-cheatsheet/</link>
       <pubDate>Thu, 16 May 2024 14:06:20 +0200</pubDate>
-      
       <guid>http://localhost:1313/posts/rust-cheatsheet/</guid>
-      
-        <description>My personnal cheastsheet while learning Rust</description>
-      
+      <description>My personnal cheastsheet while learning Rust</description>
     </item>
-    
   </channel>
 </rss>

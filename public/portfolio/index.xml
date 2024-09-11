@@ -4,7 +4,8 @@
     <title>Portfolio on Blog</title>
     <link>http://localhost:1313/portfolio/</link>
     <description>Recent content in Portfolio on Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

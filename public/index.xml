@@ -4,43 +4,30 @@
     <title>Blog</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 14:06:20 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 May 2024 14:06:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rust Cheatsheet</title>
       <link>http://localhost:1313/posts/rust-cheatsheet/</link>
       <pubDate>Thu, 16 May 2024 14:06:20 +0200</pubDate>
-      
       <guid>http://localhost:1313/posts/rust-cheatsheet/</guid>
-      
-        <description>My personnal cheastsheet while learning Rust</description>
-      
+      <description>My personnal cheastsheet while learning Rust</description>
     </item>
-    
     <item>
       <title>Contacts</title>
       <link>http://localhost:1313/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/contacts/</guid>
-      
-        <description>Je suis joignable en message privé sur LinkedIn ou par mail pour toutes informations concernant mes articles de blog, ainsi que pour des opportunités de travail en freelance. N&amp;rsquo;hésitez pas à me contacter, je serai ravi de répondre à vos questions et de discuter avec vous !</description>
-      
+      <description>&lt;p&gt;Je suis joignable en message privé sur &lt;a href=&#34;https://www.linkedin.com/in/th%C3%A9o-lejeune-31b6a1176/&#34;&gt;LinkedIn&lt;/a&gt; ou par &lt;a href=&#34;mailto:theolejeune@protonmail.com&#34;&gt;mail&lt;/a&gt; pour toutes informations concernant mes articles de blog, ainsi que pour des opportunités de travail en &lt;strong&gt;freelance&lt;/strong&gt;. N&amp;rsquo;hésitez pas à me contacter, je serai ravi de répondre à vos questions et de discuter avec vous !&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CV</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/about/</guid>
-      
-        <description>📘 Formation Diplôme: Ingénieur informatique Établissement: IMT Nord Europe Période: 2017 - 2022 🏢 Expérience Professionnelle Thales - 2022 - Aujourd&amp;rsquo;hui Ingénieur Cybersécurite - 2024 - Aujourd&amp;rsquo;hui
-Ingénieur Développement C++ - 2022 - 2024
-Gestion d&amp;rsquo;un lot de travail C++ et JEE Développement de nouvelles features Résolution de bugs OpCodes - 2022 Ingénieur Cybersécurité Audit de code Web3 et Web2 (Rust) Développement Rust sur Solana IVS - 2021 Ingénieur DevOps Développement d&amp;rsquo;une solution de monitoring Sitra - 2020 Business Intelligence Développement d&amp;rsquo;outil d&amp;rsquo;analyse et d&amp;rsquo;aide à la prise de décision à destination des managers sous PowerBI.</description>
-      
+      <description>&lt;h2 id=&#34;-formation&#34;&gt;📘 Formation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diplôme:&lt;/strong&gt; Ingénieur informatique&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Établissement:&lt;/strong&gt; IMT Nord Europe&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Période:&lt;/strong&gt; 2017 - 2022&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-expérience-professionnelle&#34;&gt;🏢 Expérience Professionnelle&lt;/h2&gt;&#xA;&lt;h3 id=&#34;thales---2022---aujourdhui&#34;&gt;Thales - 2022 - Aujourd&amp;rsquo;hui&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ingénieur Cybersécurite&lt;/strong&gt; - 2024 - Aujourd&amp;rsquo;hui&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ingénieur Développement C++&lt;/strong&gt; - 2022 - 2024&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gestion d&amp;rsquo;un lot de travail C++ et JEE&lt;/li&gt;&#xA;&lt;li&gt;Développement de nouvelles features&lt;/li&gt;&#xA;&lt;li&gt;Résolution de bugs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;opcodes---2022&#34;&gt;OpCodes - 2022&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ingénieur Cybersécurité&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Audit de code Web3 et Web2 (Rust)&lt;/li&gt;&#xA;&lt;li&gt;Développement Rust sur Solana&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ivs---2021&#34;&gt;IVS - 2021&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ingénieur DevOps&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Développement d&amp;rsquo;une solution de monitoring&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;sitra---2020&#34;&gt;Sitra - 2020&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Business Intelligence&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Développement d&amp;rsquo;outil d&amp;rsquo;analyse et d&amp;rsquo;aide à la prise de décision à destination des managers sous PowerBI.Développement d&amp;rsquo;outil d&amp;rsquo;analyse et d&amp;rsquo;aide à la prise de décision à destination des managers sous PowerBI.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ivs---2019&#34;&gt;IVS - 2019&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Administrateur système&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Développement d&amp;rsquo;une solution sécurisé pour l&amp;rsquo;accès sans fil au produit IVStore&lt;/li&gt;&#xA;&lt;li&gt;Développement d&amp;rsquo;une application pour l&amp;rsquo;installation des produits&lt;/li&gt;&#xA;&lt;li&gt;Résolution de problématiques réseaux&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-compétences&#34;&gt;🛠️ Compétences&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Développement système : C++ / Rust&lt;/li&gt;&#xA;&lt;li&gt;Cybersécurité : test d&amp;rsquo;intrusion / Audit de code&lt;/li&gt;&#xA;&lt;li&gt;Déploiement : administration serveur / docker&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-langues&#34;&gt;🌐 Langues&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🇫🇷 Français: Langue maternelle&lt;/li&gt;&#xA;&lt;li&gt;🇬🇧 Anglais : TOEIC 990/990&lt;/li&gt;&#xA;&lt;li&gt;🇩🇪 Allemand : Niveau intermediaire&lt;/li&gt;&#xA;&lt;li&gt;🇨🇳 Chinois : HSK 1&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
