@@ -15,7 +15,6 @@ html {
 .nav {
     background-color: white;
     border: 2px solid #cdcddb;
-    border-radius: 25px;
     margin: 10px;
     padding: 30px;
 }
@@ -25,7 +24,6 @@ html {
 .wrapper__main,
 .theme--light .header {
     background-color: #eaecf0;
-    padding: 10px;
 }
 
 .post {
