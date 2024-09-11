@@ -3,6 +3,7 @@ title = 'C++ : Introduction aux References et Pointeurs'
 date = 2024-09-11T11:16:17+02:00
 draft = false
 summary = 'Introduction au concept de références et de pointeurs en C++'
+tags = ["thumbnail",]
 thumbnail = "images/meme-pointeur.jpg"
 +++
 
