@@ -1,1 +1,5 @@
 .hugo_build.lock
+public/
+
+public/sitemap.xml
+public/tags/index.xml
