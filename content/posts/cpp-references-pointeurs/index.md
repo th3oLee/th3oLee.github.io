@@ -1,9 +1,9 @@
 +++
-title = 'C++S : Introduction aux References et Pointeurs'
+title = 'C++ : Introduction aux References et Pointeurs'
 date = 2024-09-11T11:16:17+02:00
 draft = false
 summary = 'Introduction au concept de références et de pointeurs en C++'
-thumbnail = "images/meme-pointeur.webp"
+thumbnail = "images/meme-pointeur.jpg"
 +++
 
 Ah, les références et les pointeurs en C++ ! Si tu as déjà mis les mains dans le dans un RPG comme Skyrim, tu comprendras vite que c'est là que la vraie magie opère. Ces deux concepts, souvent redoutés, sont pourtant essentiels pour manipuler tes données efficacement, surtout quand il s'agit de gérer tes objets, tes personnages ou n'importe quel PNJ en temps réel dans ton jeu. Laisse-moi t'expliquer tout ça, et tu verras que c’est beaucoup moins effrayant qu’on ne le dit !
